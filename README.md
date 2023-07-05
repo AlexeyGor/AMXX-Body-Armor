@@ -23,3 +23,5 @@ RU:
 Установка: Стандартная. Компилируется плагин, закидывается в "addons/amxmodx/plugins/" и прописывается в "addons/amxmodx/configs/plugins.ini".
 
 P.S. Это одна из первых версий плагина. Если он вам понравится, - он продолжит своё развитие.
+
+<video src='https://youtu.be/SXHM4kDji08' width=180/>
