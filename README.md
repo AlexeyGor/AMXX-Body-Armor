@@ -8,7 +8,7 @@ The source code of the plugin provides a setting for adjusting the strength of b
 Requirements: ReAPI.
 Installation: Standard. The plugin is compiled, thrown into "addons/amxmodx/plugins/" and added to "addons/amxmodx/configs/plugins.ini".
 
-P.S. This is one of the first versions of the plugin. If you like it, it will continue its development. You can write your ideas and suggestions for this plugin to the developer at the link: vk.com/id326659555
+P.S. This is one of the first versions of the plugin. If you like it, it will continue its development.
 
 
 
@@ -20,4 +20,4 @@ RU:
 Требования: ReAPI.
 Установка: Стандартная. Компилируется плагин, закидывается в "addons/amxmodx/plugins/" и прописывается в "addons/amxmodx/configs/plugins.ini".
 
-P.S. Это одна из первых версий плагина. Если он вам понравится, - он продолжит своё развитие. Свои идеи и предложения по этому плагину вы можете писать разработчику по ссылке: vk.com/id326659555
+P.S. Это одна из первых версий плагина. Если он вам понравится, - он продолжит своё развитие.
