@@ -10,9 +10,7 @@ Requirements: ReAPI.
 Installation: Standard. The plugin is compiled, thrown into "addons/amxmodx/plugins/" and added to "addons/amxmodx/configs/plugins.ini".
 
 P.S. This is one of the first versions of the plugin. If you like it, it will continue its development.
-
-
-
+===================================================================================================================================================
 RU:
 Данный плагин перерабатывает работу бронежилета. Теперь он принимает на себя весь входящий урон, а не малую его часть, как это работает изначально.
 
