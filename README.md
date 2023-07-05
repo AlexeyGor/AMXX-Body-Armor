@@ -24,4 +24,4 @@ RU:
 
 P.S. Это одна из первых версий плагина. Если он вам понравится, - он продолжит своё развитие.
 
-[![Watch the video]]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/SXHM4kDji08)https://youtu.be/SXHM4kDji08)
+https://youtu.be/T-D1KVIuvjA
